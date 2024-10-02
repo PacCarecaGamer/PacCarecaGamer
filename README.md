@@ -1,5 +1,6 @@
 ## OLÁ, MEU NOME É LEO 👋
-![image](https://media.tenor.com/XXWb74LNgQgAAAAi/minecraft-steve-100.gif)
+
+![image](https://media.tenor.com/R_DYAHuCZe0AAAAi/steve-steve-dance.gif)
 
 
 **PacCarecaGamer/PacCarecaGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
